@@ -1,16 +1,5 @@
 <h3 align="center">A Python Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bibinhashley" alt="bibinhashley" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/bibinhashley" target="blank"><img src="https://img.shields.io/twitter/follow/bibinhashley?logo=twitter&style=for-the-badge" alt="bibinhashley" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-	<a href="https://github.com/bibinhashley"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/bibinhashley/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/bibinhashley/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/bibinhashley"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
