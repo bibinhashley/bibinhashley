@@ -1,4 +1,4 @@
-<h3 align="center">A Python Developer</h3>
+<h3 align="center">"I'm a Python developer and I love what I do. I'm always looking for new and exciting ways to use Python to make things better."</h3>
 
 
 <p align="center">
