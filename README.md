@@ -1,11 +1,11 @@
-<h3 align="center">"I'm a Python developer and I love what I do. I'm always looking for new and exciting ways to use Python to make things better."</h3>
+<h1 align="center">Hi there👋, I'm <a href="https://schmelto.github.io/Portfolio/">Bibin Hashley</a>!</h1>
+<h3 align="center"I'm a Python developer. I'm looking for interesting problems to solve.</h3>
 
 
 <p align="center">
-	<a href="https://github.com/bibinhashley"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/bibinhashley/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/bibinhashley/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/bibinhashley"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://www.linkedin.com/in/bibinhashley/"><img src="[https://img.icons8.com/bubbles/50/000000/linkedin.png](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/></a>
+	<a href="https://www.instagram.com/bibinhashley/"><img src="[https://img.icons8.com/bubbles/50/000000/instagram.png](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" alt="Instagram"/></a>
+	<a href="https://twitter.com/bibinhashley"><img src="[https://img.icons8.com/bubbles/50/000000/twitter.png](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)" alt="Twitter"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
